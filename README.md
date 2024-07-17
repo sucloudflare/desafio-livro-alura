@@ -17,7 +17,7 @@
 </ol>
 <pre>
 <code>
-git clone https://github.com/seu-usuario/literalura.git
+git clone https://github.com/sucloudflare/desafio-livro-alura.git
 cd literalura
 </code>
 </pre>
