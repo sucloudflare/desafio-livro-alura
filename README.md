@@ -18,7 +18,7 @@
 <pre>
 <code>
 git clone https://github.com/sucloudflare/desafio-livro-alura.git
-cd literalura
+cd desafio-livro-alura
 </code>
 </pre>
 <p>Atualize o arquivo <code>application.properties</code> com as informações do seu banco de dados:</p>
