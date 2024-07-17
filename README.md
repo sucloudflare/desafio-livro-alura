@@ -83,7 +83,7 @@ mvn spring-boot:run
 </ul>
     
 <h2>Autor</h2>
-<p>Projeto desenvolvido por [Seu Nome].</p>
+<p>Projeto desenvolvido por Bruno.</p>
     
 <h2>Licença</h2>
 <p>Este projeto está licenciado sob os termos da licença MIT. Consulte o arquivo LICENSE para obter mais detalhes.</p>
